@@ -1,3 +1,4 @@
+![header]https://capsule-render.vercel.app/api?type=wave&height=300&color=auto&text=Mishra%20GitHub%20Profile&animation=fadeIn
 # Hi 👋 I'm Mishra
 
 🚀 I build AI assistants, automation tools, and intelligent web systems.
