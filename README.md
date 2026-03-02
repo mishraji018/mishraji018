@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Mishra
 
-<!--
-**mishraji018/mishraji018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I build AI assistants, automation tools, and intelligent web systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python
+- JavaScript / TypeScript
+- AI & Automation
+- Computer Vision
+- APIs & Web Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- 🤖 AI Agent Assistant
+- 👁 Face Recognition Login System
+- 🎙 Voice Authentication System
+- 🧠 Task Automation Assistant
+
+## 📫 Connect With Me
+- LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/%E1%B4%98%E1%B4%80%E1%B4%A1%E1%B4%80%C9%B4-%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D%C9%AA%EA%9C%B1%CA%9C%CA%80%E1%B4%80-7b9791321/)
+- Instagram: [https://instagram.com](https://www.instagram.com/_mishra.ji_18/)
