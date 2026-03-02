@@ -12,6 +12,10 @@
 ---
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Automation+Engineer;Python+Specialist;Building+Jarvis+AI&center=true&width=500&height=40">
 
+## 🛠 Tech Stack  
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,html,css,git,github,vscode,linux" />
+
 ## 📫 Connect With Me
 - LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/%E1%B4%98%E1%B4%80%E1%B4%A1%E1%B4%80%C9%B4-%E1%B4%8B%E1%B4%9C%E1%B4%8D%E1%B4%80%CA%80-%E1%B4%8D%C9%AA%EA%9C%B1%CA%9C%CA%80%E1%B4%80-7b9791321/)
 - Instagram: [https://instagram.com](https://www.instagram.com/_mishra.ji_18/)
