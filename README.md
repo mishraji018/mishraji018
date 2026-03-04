@@ -58,7 +58,17 @@
 </p>
 
 ---
+## 🚀 Project Showcase
 
+| Project | Description | Link |
+|--------|-------------|------|
+| 🤖 Voice Assistant AI | Python based AI voice assistant | [Open Project](https://github.com/mishraji018/Voice_assistant_anti) |
+| 🧰 Task Caretaker | Task management automation tool | [Open Project](https://github.com/mishraji018/task_caretaker) |
+| 🌐 Portfolio Website | Personal developer portfolio | [Open Project](https://github.com/mishraji018/Portfolio) |
+| 🪐 Solar System | Interactive solar system simulation | [Open Project](https://github.com/mishraji018/Planet) |
+
+
+------
 # 📊 GitHub Stats
 
 <p align="center">
