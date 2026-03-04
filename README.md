@@ -1,130 +1,170 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pawan%20Mishra&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Pawan%20Mishra%20%7C%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">Hi 👋, I'm Pawan Mishra</h1>
+<h1 align="center">Hi 👋 I'm Pawan Mishra</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Pawan+Mishra+%7C+AI+Engineer;Full+Stack+Developer;Building+AI+Assistants;Automation+Systems+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer;Full+Stack+Developer;Automation+Systems+Builder;React+%7C+Python+%7C+AI"/>
 </p>
 
 <p align="center">
-  🚀 AI Developer • Automation Engineer • Web Developer • India
+🚀 AI Developer • Automation Engineer • Web Developer
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
+
 - 🤖 Building **AI assistants & automation systems**
-- 🌐 **Full-stack** web development
-- 🧠 Learning **AI / ML**
-- 🧩 Practicing **DSA & problem solving**
-- 🎯 Goal: Ship **AI-powered products**
+- 🌐 Full stack developer
+- 🧠 Learning **Artificial Intelligence & Machine Learning**
+- 🚀 Building real world projects
 
 ---
 
-## 🌐 Portfolio
-🔗 https://portfolio-mine-sage-eight.vercel.app/
+# 🛠 Tech Stack
 
----
-
-## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mysql,git,github,vscode,linux"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mysql,git,github,vscode,linux"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<a href="https://github.com/mishraji018/Voice_assistant_anti">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Voice_assistant_anti&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/mishraji018/task_caretaker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=task_caretaker&theme=tokyonight"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/mishraji018/Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Portfolio&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/mishraji018/Planet">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Planet&theme=tokyonight"/>
+</a>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats Dashboard
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraji018&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraji018&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraji018&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🧊 3D Contribution Summary
+# 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mishraji018&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraji018&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🧊 Contribution Summary Cards
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mishraji018/mishraji018/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mishraji018&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mishraji018&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mishraji018&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mishraji018&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+<img src="https://raw.githubusercontent.com/mishraji018/mishraji018/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 GitHub Trophies
 
-- 🔹 [Voice Assistant AI](https://github.com/mishraji018/Voice_assistant_anti)
-- 🔹 [Task Caretaker](https://github.com/mishraji018/task_caretaker)
-- 🔹 [Portfolio Website](https://github.com/mishraji018/Portfolio)
-- 🔹 [Solar System Project](https://github.com/mishraji018/Planet)
-
-
----
-
-## 🏆 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pawan_018?theme=dark&font=Baloo&ext=contest"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mishraji018&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
 
 ---
 
-## 💻 Hacker Animation
+# 🧠 LeetCode Stats
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+
+<img src="https://leetcard.jacoblin.cool/pawan_018?theme=dark&font=Baloo&ext=contest"/>
+
 </p>
 
 ---
 
-## 💡 Daily Dev Quote
+# 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:pmishra2084@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/_mishra.ji_18/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://leetcode.com/u/pawan_018/">
+<img src="https://cdn.simpleicons.org/leetcode"/>
+</a>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/_mishra.ji_18/">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://leetcode.com/u/pawan_018/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-</p>
+# 👀 Profile Views
 
----
-
-## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mishraji018&label=Profile%20views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=mishraji018&label=Profile%20views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
