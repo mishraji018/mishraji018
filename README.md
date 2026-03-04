@@ -116,22 +116,24 @@
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="center">
 
 <a href="mailto:pmishra2084@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
 
 <a href="https://www.instagram.com/_mishra.ji_18/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+<img src="https://img.icons8.com/color/48/instagram-new.png" width="40"/>
 </a>
 
 <a href="https://leetcode.com/u/pawan_018/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 
 </p>
