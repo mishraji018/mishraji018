@@ -77,11 +77,22 @@
 ---
 
 ## 🚀 Featured Projects
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=portfolio&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=task_caretaker&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Voice_assistant_anti&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=task_caretaker&theme=tokyonight"/>
+
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Portfolio&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Planet&theme=tokyonight"/>
+
+</p>
 ---
 
 ## 🏆 LeetCode Stats
