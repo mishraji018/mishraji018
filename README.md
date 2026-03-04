@@ -78,21 +78,10 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Voice_assistant_anti&theme=tokyonight&cache_seconds=1800"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=task_caretaker&theme=tokyonight&cache_seconds=1800"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Portfolio&theme=tokyonight&cache_seconds=1800"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Planet&theme=tokyonight&cache_seconds=1800"/>
-
-</p>
+- 🔹 [Voice Assistant AI](https://github.com/mishraji018/Voice_assistant_anti)
+- 🔹 [Task Caretaker](https://github.com/mishraji018/task_caretaker)
+- 🔹 [Portfolio Website](https://github.com/mishraji018/Portfolio)
+- 🔹 [Solar System Project](https://github.com/mishraji018/Planet)
 
 
 ---
