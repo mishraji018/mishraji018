@@ -31,33 +31,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/mishraji018/Voice_assistant_anti">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Voice_assistant_anti&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mishraji018/task_caretaker">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=task_caretaker&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/mishraji018/Portfolio">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Portfolio&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mishraji018/Planet">
-<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Planet&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
 ## 🚀 Project Showcase
 
 | Project | Description | Link |
