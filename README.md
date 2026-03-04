@@ -118,20 +118,20 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">
-<img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40"/>
-</a>
-
 <a href="mailto:pmishra2084@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" style="margin:10px; border-radius:8px; padding:6px; background:#111"/>
 </a>
 
 <a href="https://www.instagram.com/_mishra.ji_18/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" style="margin:10px; border-radius:8px; padding:6px; background:#111"/>
 </a>
 
 <a href="https://leetcode.com/u/pawan_018/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" style="margin:10px; border-radius:8px; padding:6px; background:#111"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">
+<img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" style="margin:10px; border-radius:8px; padding:6px; background:#111"/>
 </a>
 
 </p>
