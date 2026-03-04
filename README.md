@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Pawan%20Mishra%20%7C%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=230&section=header&text=Pawan%20Mishra%20|%20AI%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋 I'm Pawan Mishra</h1>
 
@@ -36,11 +36,11 @@
 <p align="center">
 
 <a href="https://github.com/mishraji018/Voice_assistant_anti">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Voice_assistant_anti&theme=tokyonight"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Voice_assistant_anti&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/mishraji018/task_caretaker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=task_caretaker&theme=tokyonight"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=task_caretaker&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -48,18 +48,18 @@
 <p align="center">
 
 <a href="https://github.com/mishraji018/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Portfolio&theme=tokyonight"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/mishraji018/Planet">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Planet&theme=tokyonight"/>
+<img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Planet&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
 
 ---
 
-# 📊 GitHub Stats Dashboard
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -97,10 +97,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mishraji018&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mishraji018&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mishraji018&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -119,7 +115,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mishraji018&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mishraji018&theme=tokyonight&margin-w=10&no-frame=true"/>
 
 </p>
 
@@ -129,7 +125,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/pawan_018?theme=dark&font=Baloo&ext=contest"/>
+<img height="200" src="https://leetcard.jacoblin.cool/pawan_018?theme=dark&font=Baloo&ext=contest"/>
 
 </p>
 
@@ -140,19 +136,15 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img height="40" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:pmishra2084@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img height="40" src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.instagram.com/_mishra.ji_18/">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="https://leetcode.com/u/pawan_018/">
-<img src="https://cdn.simpleicons.org/leetcode"/>
+<img height="40" src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>
@@ -169,4 +161,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
