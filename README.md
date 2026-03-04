@@ -11,6 +11,15 @@
 </p>
 
 ---
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mishraji018&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
 
 # 👨‍💻 About Me
 
@@ -39,20 +48,7 @@
 | 🧰 Task Caretaker | Task management automation tool | [Open Project](https://github.com/mishraji018/task_caretaker) |
 | 🌐 Portfolio Website | Personal developer portfolio | [Open Project](https://github.com/mishraji018/Portfolio) |
 | 🪐 Solar System | Interactive solar system simulation | [Open Project](https://github.com/mishraji018/Planet) |
-
-
-------
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
+----
 
 # 🔥 GitHub Streak
 
@@ -94,15 +90,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mishraji018&theme=tokyonight&margin-w=10&no-frame=true"/>
-
-</p>
-
----
 
 # 🧠 LeetCode Stats
 
@@ -113,8 +100,6 @@
 </p>
 
 ---
-
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
@@ -139,14 +124,6 @@
 </p>
 ---
 
-# 👀 Profile Views
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mishraji018&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
