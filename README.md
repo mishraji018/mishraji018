@@ -80,19 +80,21 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Voice_assistant_anti&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Voice_assistant_anti&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=task_caretaker&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=task_caretaker&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Portfolio&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Portfolio&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Planet&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraji018&repo=Planet&theme=tokyonight&cache_seconds=1800"/>
 
 </p>
+
+
 ---
 
 ## 🏆 LeetCode Stats
