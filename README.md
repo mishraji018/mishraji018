@@ -1,53 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pawan%20Kumar%20Mishra&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Pawan%20Mishra&fontSize=42&fontColor=ffffff"/>
 
-<h1 align="center">Hi 👋, I'm Pawan Kumar Mishra</h1>
+<h1 align="center">Hi 👋 I'm Pawan Mishra</h1>
 
 <p align="center">
-AI Developer • Automation Engineer • Web Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Pawan+Mishra+%7C+AI+Engineer;Full+Stack+Developer;Building+AI+Assistants;Automation+Systems+Developer"/>
 </p>
 
 <p align="center">
-Building AI assistants, automation tools, and intelligent systems
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🤖 AI Assistant Developer  
-- 💻 Full Stack Web Developer  
-- 🧠 Learning Artificial Intelligence & Machine Learning  
-- 🚀 Building real-world projects  
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,mysql,git,github,vscode,linux"/>
-
+🚀 AI Developer • Automation Engineer • Web Developer
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 👨‍💻 About Me
+
+- 🤖 Building **AI assistants & automation systems**
+- 💻 Full stack web developer
+- 🧠 Learning **AI / Machine Learning**
+- 🚀 Building real-world projects
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mysql,git,github,vscode,linux"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&theme=tokyonight"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -57,7 +53,7 @@ Building AI assistants, automation tools, and intelligent systems
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -67,22 +63,54 @@ Building AI assistants, automation tools, and intelligent systems
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 LeetCode Stats
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">LinkedIn</a> •
-<a href="https://www.instagram.com/_mishra.ji_18/">Instagram</a> •
-<a href="https://leetcode.com/u/pawan_018/">LeetCode</a>
+<img src="https://leetcard.jacoblin.cool/pawan_018?theme=dark&font=Baloo&ext=contest"/>
 
 </p>
 
 ---
 
+# 💻 Hacker Animation
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mishraji018&color=blue"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/_mishra.ji_18/">
+<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://leetcode.com/u/pawan_018/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mishraji018&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer"/>
