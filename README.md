@@ -119,19 +119,19 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40"/>
 </a>
 
 <a href="mailto:pmishra2084@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
 </a>
 
 <a href="https://www.instagram.com/_mishra.ji_18/">
-<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
 </a>
 
 <a href="https://leetcode.com/u/pawan_018/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40"/>
 </a>
 
 </p>
