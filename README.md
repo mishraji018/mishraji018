@@ -114,20 +114,24 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/pawan-kumar-mishra-7b9791321/">
-<img height="40" src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:pmishra2084@gmail.com">
-<img height="40" src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/_mishra.ji_18/">
-<img height="40" src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/pawan_018/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
