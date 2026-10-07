@@ -1,204 +1,113 @@
 <div align="center">
 
-# `mishraj018@github:~$`
+# Pawan Mishra | AI Engineer
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                    P A W A N   M I S H R A                         ║
-║                    AI / ML • CSE • Developer                       ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+### Hi 👋 I'm Pawan Mishra
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+Developer;Automation+Engineer;Web+Developer;Machine+Learning+Enthusiast)](https://git.io/typing-svg)
+
+<p>
+🚀 AI Developer • Automation Engineer • Web Developer
+</p>
 
 </div>
 
-<table>
-<tr>
-
-<td width="35%" align="center" valign="top">
-
-<br>
-
-<img src="./github.jpg" width="260" alt="Pawan Mishra"/>
-
-<br><br>
-
-### `PROFILE`
-
-```
-┌─────────────────────────────┐
-│                             │
-│  USER    : mishraj018       │
-│  NAME    : Pawan Mishra     │
-│  ROLE    : AI Engineer      │
-│  STATUS  : Building...      │
-│  LOCATION: India            │
-│                             │
-└─────────────────────────────┘
-```
-
-<br>
-
-### `CONTACT`
-
-[![GitHub](https://img.shields.io/badge/GitHub-mishraj018-181717?style=flat-square&logo=github)](https://github.com/mishraj018)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pawan_Mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-kr-mishra)
-
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pmishra2084@gmail.com)
-
-</td>
-
-<td width="65%" valign="top">
-
-# `Pawan Mishra | AI Engineer`
-
-```
-mishraj018@github:~$ ./about.sh
-
-Hi 👋 I'm Pawan Mishra.
-
-Computer Science student passionate about
-Artificial Intelligence, Machine Learning,
-Data Engineering and Software Development.
-
-I enjoy building practical projects,
-learning new technologies and turning ideas
-into working software.
-
-mishraj018@github:~$ _
-```
-
 ---
 
-## 👨‍💻 `ABOUT_ME`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🤖 Building AI assistants & intelligent systems       │
-│  🧠 Learning Artificial Intelligence & Machine Learning │
-│  ⚙️ Exploring Data Engineering & Automation             │
-│  💻 Full Stack Development                              │
-│  🚀 Building real-world projects                        │
-│  📚 Always learning something new                       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 💻 `TECH_STACK`
+## 👀 Profile Views
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode,linux,docker,tensorflow,pytorch&perline=9"/>
+<img src="https://komarev.com/ghpvc/?username=mishraj018&label=Profile%20views&color=0e75b6&style=flat" />
 
 </p>
 
-```
-Languages
-────────────────────────────────────────
+---
 
-C / C++        ████████████████░░░░
-Python         ██████████████████░░
-Java           █████████████░░░░░░░
-JavaScript     ███████████████░░░░░
-HTML / CSS     █████████████████░░░
+## 🧑‍💻 About Me
 
-AI / ML
-────────────────────────────────────────
-
-TensorFlow • PyTorch • Scikit-Learn
-NumPy • Pandas
-
-Data Engineering
-────────────────────────────────────────
-
-Apache Airflow • Apache Spark • Kafka
-
-Development Tools
-────────────────────────────────────────
-
-Git • GitHub • VS Code • Linux • Docker
-```
+- 🤖 Building AI assistants & automation systems
+- 💻 Full Stack Developer
+- 🧠 Learning Artificial Intelligence & Machine Learning
+- 🚀 Building real-world projects
+- ⚙️ Exploring Data Engineering & Automation
 
 ---
 
-## 🚀 `PROJECT_SHOWCASE`
+## 🛠️ Tech Stack
 
-| Project | Description | Status |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mongodb,mysql,git,github,vscode,linux&perline=14">
+
+</p>
+
+---
+
+## 🚀 Project Showcase
+
+| Project | Description | Link |
 |:---|:---|:---:|
-| 🤖 **AI3D Studio** | 2D Image → Interactive 3D Model | 🔨 |
-| 🧠 **Face Recognition Attendance** | Face Recognition + Liveness | 🔨 |
-| 🌫️ **Air Quality Monitor** | ESP8266 + Sensors + IoT | ✅ |
-| ⚙️ **Data Pipeline** | Airflow + Spark Data Processing | 🔨 |
-| 🌐 **Developer Portfolio** | Personal Portfolio Website | ✅ |
+| 🤖 **AI3D Studio** | 2D Image → Interactive 3D Model | [Open Project](#) |
+| 🧠 **Face Recognition Attendance** | Face Recognition + Liveness Detection | [Open Project](#) |
+| 🌐 **Portfolio Website** | Personal developer portfolio | [Open Project](#) |
+| 🌱 **Air Quality Monitor** | Interactive IoT air-quality system | [Open Project](#) |
 
 ---
 
-## 🔥 `CURRENTLY_WORKING_ON`
-
-```
-[01] AI3D Studio
-     └── Computer Vision + 3D Generation
-
-[02] Face Recognition Attendance
-     └── Face Recognition + Liveness Detection
-
-[03] Data Engineering
-     └── Airflow + Spark + Kafka
-
-[04] Machine Learning
-     └── Python + Scikit-Learn + TensorFlow
-```
-
----
-
-## 📊 `GITHUB_STATS`
+## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishraj018&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraj018&theme=github-dark-blue&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraj018&theme=dark&hide_border=false">
 
 </p>
 
 ---
 
-## 📫 `CONNECT_WITH_ME`
+## 📊 Contribution Summary Cards
 
-```
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  GitHub     →  github.com/mishraj018                │
-│  LinkedIn   →  linkedin.com/in/pawan-kr-mishra      │
-│  Email      →  pmishra2084@gmail.com                │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<p align="center">
 
-</td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mishraj018&theme=github_dark" />
 
-</tr>
-</table>
+</p>
 
-<br>
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mishraj018&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mishraj018&theme=github_dark" />
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:pmishra2084@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/pawan-kr-mishra">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/mishraj018">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║       "Building • Learning • Breaking • Rebuilding"                 ║
-║                                                                      ║
-║                    mishraj018@github:~$                              ║
-║                    █                                                 ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
 
 ⭐ **Thanks for visiting my profile!**
 
