@@ -4,7 +4,7 @@
 
 ### Full-Stack & AI Developer — I build intelligent assistants, automation systems, and tools that turn ideas into working software.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Backend-first+%7C+Solo+Builder+%7C+CS+Student;Python+%E2%80%A2+React%2FNext.js+%E2%80%A2+FastAPI+%E2%80%A2+Django+%E2%80%A2+Supabase;Currently+building+JARVIS+%26+Insight+Hub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Backend-first+%7C+Solo+Builder+%7C+CS+Student;Python+%E2%80%A2+React%2FNext.js+%E2%80%A2+FastAPI;Django+%E2%80%A2+Supabase+%E2%80%A2+Node.js;Currently+building+JARVIS+%26+Insight+Hub" alt="Typing SVG" />
 
 <br/><br/>
 
