@@ -175,7 +175,7 @@ These are just the highlights — more experiments, scripts, and work-in-progres
 
 **📅 Contribution Graph**
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraji018&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&hide_title=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraji018&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
