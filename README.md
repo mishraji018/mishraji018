@@ -163,7 +163,7 @@ These are just the highlights — more experiments, scripts, and work-in-progres
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&disable_animations=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&disable_animations=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&disable_animations=true"/>
 </div>
 
@@ -173,9 +173,9 @@ These are just the highlights — more experiments, scripts, and work-in-progres
 
 <div align="center">
 
-**📅 Contribution Heatmap**
+**📅 Contribution Graph**
 <br/>
-<img src="https://ghchart.rshah.org/A855F7/mishraji018" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraji018&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&hide_title=true" width="100%"/>
 
 </div>
 
