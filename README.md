@@ -52,18 +52,23 @@ me = MishraJi()
 
 ## 🛠️ Tech Stack
 
+```bash
+mishraji@dev:~$ cat tech_stack.sh
+
+Languages     : Python · JavaScript · TypeScript
+Frontend      : React · Next.js · Tailwind CSS
+Backend       : FastAPI · Django · Node.js
+Database      : PostgreSQL · Supabase
+DevOps/Tools  : Docker · Git · GitHub Actions · Vercel
+Vision/ML     : OpenCV
+Design        : Figma
+
+mishraji@dev:~$ echo $CURRENT_STATUS
+"Backend-first | Solo builder | Always shipping ⚡"
+```
+
 <div align="center">
-
-**Languages & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,django,nodejs,tailwind&theme=dark" />
-
-<br/><br/>
-
-**Data, Infra & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,vercel,git,github,vscode,figma,opencv&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,django,postgres,supabase,docker,git,github&theme=dark" />
 </div>
 
 <br/>
@@ -142,8 +147,8 @@ College attendance system using real-time face detection.
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7"/>
 </div>
 
 <div align="center">
@@ -185,5 +190,17 @@ Always open to talking about AI systems, automation, and ambitious side projects
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+
+<sub>Thanks for stopping by 🚀</sub>
+
+<br/><br/>
+
+<a href="https://github.com/mishraji018"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/></a>
+<a href="https://www.linkedin.com/in/pawan-kr-mishra/"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/></a>
+<a href="https://x.com/_mishraji_18"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20"/></a>
+<a href="https://leetcode.com/u/pawan_018/"><img src="https://img.shields.io/badge/-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=20"/></a>
+<a href="mailto:pmishra2084@gmail.com"><img src="https://img.shields.io/badge/-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/></a>
+<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/-%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20"/></a>
+<a href="https://instagram.com/"><img src="https://img.shields.io/badge/-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20"/></a>
 
 </div>
