@@ -12,13 +12,13 @@
 
 <br/><br/>
 
-<a href="https://github.com/mishraji018"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pawan-kr-mishra/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/_mishraji_18"><img src="https://img.shields.io/badge/-Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://leetcode.com/u/pawan_018/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:pmishra2084@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/mishraji018"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pawan-kr-mishra/"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/_mishraji_18"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://leetcode.com/u/pawan_018/"><img src="https://img.shields.io/badge/-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:pmishra2084@gmail.com"><img src="https://img.shields.io/badge/-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/-%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://instagram.com/"><img src="https://img.shields.io/badge/-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <br/>
 <img src="https://img.shields.io/badge/📍_Ghaziabad,_Uttar_Pradesh,_India-262626?style=for-the-badge"/>
 
@@ -136,27 +136,47 @@ College attendance system using real-time face detection.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🌐 3D Portfolio</h3>
+An immersive, desktop-grade personal portfolio site with 3D scenes and cinematic motion.
+<ul>
+<li>Custom Blender (.glb) models rendered in-browser</li>
+<li>Skeleton loader fallback for slow connections</li>
+</ul>
+<img src="https://img.shields.io/badge/React_Three_Fiber-black?style=flat-square&logo=three.js&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
+<h3>🔭 More on GitHub</h3>
+These are just the highlights — more experiments, scripts, and work-in-progress builds live on my profile.
+<ul>
+<li>New repos pushed regularly</li>
+<li>Mix of AI tooling, automation & full-stack apps</li>
+</ul>
+<a href="https://github.com/mishraji018?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-A855F7?style=flat-square&logo=github&logoColor=white"/></a>
+</td>
+</tr>
 </table>
-
-<div align="center">
-<sub>✨ + <b>3D Portfolio</b> — an immersive React Three Fiber / GSAP site with Blender models, built for desktop-grade visual storytelling</sub>
-</div>
 
 <br/>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&disable_animations=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&disable_animations=true"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=mishraji018&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7"/>
+<img src="https://streak-stats.demolab.com?user=mishraji018&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&disable_animations=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraji018&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff"/>
+
+**📅 Contribution Heatmap**
+<br/>
+<img src="https://ghchart.rshah.org/A855F7/mishraji018" width="100%"/>
+
 </div>
 
 <blockquote align="center">
@@ -179,28 +199,18 @@ College attendance system using real-time face detection.
 
 Always open to talking about AI systems, automation, and ambitious side projects.
 
-<a href="https://github.com/mishraji018"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pawan-kr-mishra/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/_mishraji_18"><img src="https://img.shields.io/badge/-Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://leetcode.com/u/pawan_018/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:pmishra2084@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/mishraji018"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pawan-kr-mishra/"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/_mishraji_18"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://leetcode.com/u/pawan_018/"><img src="https://img.shields.io/badge/-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:pmishra2084@gmail.com"><img src="https://img.shields.io/badge/-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/-%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://instagram.com/"><img src="https://img.shields.io/badge/-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 
 <sub>Thanks for stopping by 🚀</sub>
-
-<br/><br/>
-
-<a href="https://github.com/mishraji018"><img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/></a>
-<a href="https://www.linkedin.com/in/pawan-kr-mishra/"><img src="https://img.shields.io/badge/-%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/></a>
-<a href="https://x.com/_mishraji_18"><img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20"/></a>
-<a href="https://leetcode.com/u/pawan_018/"><img src="https://img.shields.io/badge/-%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=20"/></a>
-<a href="mailto:pmishra2084@gmail.com"><img src="https://img.shields.io/badge/-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20"/></a>
-<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/-%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=20"/></a>
-<a href="https://instagram.com/"><img src="https://img.shields.io/badge/-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20"/></a>
 
 </div>
