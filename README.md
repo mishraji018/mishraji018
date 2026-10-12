@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pawan%20Kumar%20Mishra&fontSize=42&fontColor=00C2FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Web%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18&descColor=A0F0FF" alt="Pawan Kumar Mishra banner" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer;Web+Developer;AI%2FML+Explorer;Problem+Solver" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer;Web+Developer;AI%2FML+Explorer;Problem+Solver" alt="Typing SVG"/>
 
 <img src="https://komarev.com/ghpvc/?username=mishraji018&color=0F74C0&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
@@ -76,47 +76,31 @@ class Pawan:
 
 <table>
 <tr>
-<td width="50%">
-
-### 🧠 JARVIS
-Voice-controlled Windows desktop AI assistant — STT/TTS, LLM-based intent routing, and OS-level task execution with security-hardened confirmation gates for sensitive actions.
-
-`Python` `LLM` `Speech-to-Text` `Automation`
-
-[🔗 Repository]((https://mishraji018.github.io/Voice_assistant_anti/))
-
+<td width="50%" valign="top">
+<h3>🧠 JARVIS</h3>
+<p>Voice-controlled Windows desktop AI assistant — STT/TTS, LLM-based intent routing, and OS-level task execution with security-hardened confirmation gates for sensitive actions.</p>
+<p><code>Python</code> <code>LLM</code> <code>Speech-to-Text</code> <code>Automation</code></p>
+<p><a href="https://github.com/mishraji018/REPLACE_WITH_REPO_NAME">🔗 Repository</a></p>
 </td>
-<td width="50%">
-
-### 📊 Insight Hub
-Full-stack AI-powered business intelligence SaaS — React/Next.js frontend, Django backend, PostgreSQL, and Groq-powered AI insights, deployed on Vercel + Render.
-
-`React` `Next.js` `Django` `PostgreSQL` `AI`
-
-[🔗 Repository](https://github.com/mishraji018/REPLACE_WITH_REPO_NAME)
-
+<td width="50%" valign="top">
+<h3>📊 Insight Hub</h3>
+<p>Full-stack AI-powered business intelligence SaaS — React/Next.js frontend, Django backend, PostgreSQL, and Groq-powered AI insights, deployed on Vercel + Render.</p>
+<p><code>React</code> <code>Next.js</code> <code>Django</code> <code>PostgreSQL</code> <code>AI</code></p>
+<p><a href="https://github.com/mishraji018/REPLACE_WITH_REPO_NAME">🔗 Repository</a></p>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 💬 ChitChat-web
-Real-time chat application with offline-first architecture — React, Vite, TypeScript, Tailwind, and Supabase for realtime messaging, presence, and storage.
-
-`React` `TypeScript` `Supabase` `Realtime`
-
-[🔗 Repository](https://chit-chat-web-y3jg.vercel.app/)
-
+<td width="50%" valign="top">
+<h3>💬 ChitChat-web</h3>
+<p>Real-time chat application with offline-first architecture — React, Vite, TypeScript, Tailwind, and Supabase for realtime messaging, presence, and storage.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>Realtime</code></p>
+<p><a href="https://github.com/mishraji018/REPLACE_WITH_REPO_NAME">🔗 Repository</a></p>
 </td>
-<td width="50%">
-
-### 🖼️ DevCanvas
-Developer visual-asset tool for generating code and terminal screenshots plus social-export cards — zero-backend, shareable link generation.
-
-`React` `JavaScript` `Frontend Tooling`
-
-[🔗 Repository](https://github.com/mishraji018/REPLACE_WITH_REPO_NAME)
-
+<td width="50%" valign="top">
+<h3>🖼️ DevCanvas</h3>
+<p>Developer visual-asset tool for generating code and terminal screenshots plus social-export cards — zero-backend, shareable link generation.</p>
+<p><code>React</code> <code>JavaScript</code> <code>Frontend Tooling</code></p>
+<p><a href="https://github.com/mishraji018/REPLACE_WITH_REPO_NAME">🔗 Repository</a></p>
 </td>
 </tr>
 </table>
@@ -130,7 +114,7 @@ Developer visual-asset tool for generating code and terminal screenshots plus so
 <img src="https://github-readme-stats.vercel.app/api?username=mishraji018&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishraji018&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mishraji018&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=mishraji018&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraji018&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
 
@@ -169,7 +153,7 @@ Developer visual-asset tool for generating code and terminal screenshots plus so
 <a href="https://github.com/mishraji018"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/pawan-kr-mishra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://portfolio-mine-sage-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:pmishra2084@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="footer wave" width="100%"/>
